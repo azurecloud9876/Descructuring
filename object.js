@@ -16,7 +16,9 @@ You can work with functions as if they were objects.
 For example, you can assign functions to variables, to array elements,
  and to other objects. They can also be passed around as arguments to
   other functions or be returned from those functions. The only difference with objects 
-  is that functions can be called. */
+  is that functions can be called.
+  https://www.dofactory.com/javascript/function-objects
+  */
 
 function message() {
   console.log("Greetings Linda!");

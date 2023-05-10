@@ -1,5 +1,5 @@
 const person = {
-  name: "ganan",
+  name: "ganaaaaaaaaaa",
 };
 const { name, age = 1 } = person;
 console.log(name);
