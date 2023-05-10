@@ -1,5 +1,5 @@
-const array = ["pavan", ["keeth", "jeswi", "ganan"]];
+const array = ["paaaaaa", ["keeeeee", "jeeeeeeeee", "gaeeeeeeee"]];
 const [x, [y, z]] = array;
-console.log(x); //pavan
-console.log(y); //keeth
-console.log(z);//jeswi
+console.log(x); //paaaaaa
+console.log(y); //keeeeee
+console.log(z);//jeeeeeeeee
